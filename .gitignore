@@ -1,0 +1,6 @@
+bin/
+build-test/
+.settings/
+.classpath
+.project
+*.class
